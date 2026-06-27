@@ -85,13 +85,13 @@ MySQL Database
 
 ✏️ Edit Contact
 
-"Edit Contact" (screenshots/edit-contact.png)
+![image alt](https://github.com/samirabhang1-svg/Contact-Manager/blob/main/edit.png?raw=true)
 
 ---
 
 🗄️ MySQL Database
 
-The "contacts" table used by the application.
+
 
 "Database" (screenshots/database.png)
 
