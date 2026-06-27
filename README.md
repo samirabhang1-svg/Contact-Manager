@@ -73,13 +73,13 @@ MySQL Database
 
 🏠 Home Page
 
-"Home Page" (screenshots/home.png)
+![image alt](https://github.com/samirabhang1-svg/Contact-Manager/blob/main/home.png?raw=true)
 
 ---
 
 ➕ Add Contact
 
-"Add Contact" (screenshots/add-contact.png)
+
 
 ---
 
