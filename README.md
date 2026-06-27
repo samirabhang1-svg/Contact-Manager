@@ -91,9 +91,7 @@ MySQL Database
 
 🗄️ MySQL Database
 
-
-
-"Database" (screenshots/database.png)
+![image alt](https://github.com/samirabhang1-svg/Contact-Manager/blob/main/database.png?raw=true)
 
 ---
 
