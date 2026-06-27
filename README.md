@@ -34,21 +34,6 @@ The Contact Manager application allows users to create, view, update, and delete
 - HTML5
 - CSS3
 - Maven
-
----
-
-📂 Project Structure
-
-src
-├── controller
-├── entity
-├── repository
-├── service
-├── resources
-│   ├── static
-│   ├── templates
-│   └── application.properties
-
 ---
 
 🔄 Request Flow
