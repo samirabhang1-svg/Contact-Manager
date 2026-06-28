@@ -1,6 +1,6 @@
 📒 Contact Manager - Spring Boot CRUD Application
 
-«A simple Contact Manager web application built while learning Spring Boot, Spring MVC, Spring Data JPA, and Thymeleaf. This project implements complete CRUD operations and demonstrates the MVC architecture, request flow, and database integration.»
+«A simple Contact Manager web application built while learning Spring Boot, Spring MVC, Spring Data JPA, and Thymeleaf. This project implements complete CRUD operations and demonstrates the MVC architecture, request flow, and database integration.
 
 ---
 
